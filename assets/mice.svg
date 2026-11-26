@@ -2,7 +2,7 @@
 <rect width="843" height="193" rx="18" fill="#f7efe1"/>
 <rect x="1.5" y="1.5" width="840" height="190" rx="17" fill="none" stroke="#c9a77c" stroke-width="2" stroke-dasharray="2 6" stroke-linecap="round"/>
 <text x="24" y="30" font-size="17" fill="#5a3d2b" font-weight="bold">nom nom nom</text>
-<text x="24" y="47" font-size="12" fill="#8b6b4e">every crumb = a day i showed up · 98 contributions this year</text>
+<text x="24" y="47" font-size="12" fill="#8b6b4e">every crumb = a day i showed up · 102 contributions this year</text>
 <rect x="24" y="58" width="12" height="12" rx="4" fill="#efe2cc"/>
 <rect x="24" y="73" width="12" height="12" rx="4" fill="#efe2cc"/>
 <rect x="24" y="88" width="12" height="12" rx="4" fill="#efe2cc"/>
@@ -396,6 +396,8 @@
 <rect x="804" y="88" width="12" height="12" rx="4" fill="#efe2cc"/>
 <g><path d="M804.1,98.7 L815.9,98.7 L815.9,92.8 Q810.0,86.3 804.1,92.8 Z" fill="#f2b84b" stroke="#c98a1b" stroke-width="1"/><circle cx="808.2" cy="95.8" r="1.5" fill="#c98a1b"/><animate attributeName="opacity" dur="48.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.25173;0.25973;0.985;1" values="1;1;0;0;1"/></g>
 <rect x="804" y="103" width="12" height="12" rx="4" fill="#efe2cc"/>
+<g><path d="M804.1,113.7 L815.9,113.7 L815.9,107.8 Q810.0,101.3 804.1,107.8 Z" fill="#f2b84b" stroke="#c98a1b" stroke-width="1"/><circle cx="808.2" cy="110.8" r="1.5" fill="#c98a1b"/><animate attributeName="opacity" dur="48.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.25173;0.25973;0.985;1" values="1;1;0;0;1"/></g>
+<rect x="804" y="118" width="12" height="12" rx="4" fill="#efe2cc"/>
 <g><g>
 <animateTransform attributeName="transform" type="scale" calcMode="discrete" keyTimes="0.00000;0.25232;0.50464;0.75697" values="1 1;-1 1;1 1;-1 1" dur="48.0s" repeatCount="indefinite"/>
 <g transform="translate(0,-4)">
